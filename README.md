@@ -1,8 +1,8 @@
 # Movie Tickets
 
-#### This is a site where a user will recieve the price of a movie ticket
+#### This is a site where a user will receive the price of a movie ticket.
 
-#### _By Paige Tiedeman_
+#### _By Paige Tiedeman & Roman Kolivashko_
 
 ## Technologies Used
 
@@ -22,7 +22,7 @@ This simple HTML site takes user inputs and returns a ticket price based on UI a
 * _Go to the top level of this directory_
 * _Open index.html in your browser_
 * _Fill out the form_
-* _Submit to receive your ticket price"
+* _Submit to receive your ticket price
 
 ## Known Bugs
 
@@ -32,8 +32,9 @@ This simple HTML site takes user inputs and returns a ticket price based on UI a
 
 _[MIT](https://opensource.org/licenses/MIT)_
 
-Copyright (c) 2021 Paige Tiedeman
+Copyright (c) 2021 Paige Tiedeman and Roman Kolivashko
 
 ## Contact Information
 
-_Paige Tiedeman **paigetiedeman@gmail.com**_
+_Paige Tiedeman **paigetiedeman@gmail.com**_  
+_Roman Kolivashko **rkolivashko@gmail.com**_ 

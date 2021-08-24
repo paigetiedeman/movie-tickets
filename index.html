@@ -24,21 +24,25 @@
         </div>
         <div class="form-group">
           <p>Pick from available times:</p>
-          <input type="radio" id="three" name="movieTime" value="Three">
+          <input type="radio" id="three" name="movieTime" value="3">
           <label for="three">3 pm</label><br>
-          <input type="radio" id="six" name="movieTime" value="Six">
+          <input type="radio" id="six" name="movieTime" value="6">
           <label for="six">6 pm</label><br>
-          <input type="radio" id="nine" name="movieTime" value="Nine">
+          <input type="radio" id="nine" name="movieTime" value="9">
           <label for="nine">9 pm</label>
         </div>
         <div class="form-group">
-          <label for="age">Birthday:</label>
-          <input type="date" id="age">
+          <label for="age">Age:</label>
+          <input type="number" id="age" placeholder="ex: 19">
         </div>
         <div class="form-group">
-          <button type="submit" class="btn-primary">Price:</button>
+          <button type="submit" class="btn-primary">Choose!</button>
         </div>
     </form>
+    <h2>Your Selection</h2>
+    <div id="show-price">
+      <p>Price: <span class="price"></span></p>
+    </div>
   </div>
 </body>
 
